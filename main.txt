@@ -2,3 +2,4 @@ cabecera
 título
 parrafo 1
 enlace fun1
+enlace fun2
